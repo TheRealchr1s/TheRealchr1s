@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, JavaScript, nginx, full-stack web development, anything Docker & DevOps**
 
-- 📫 How to reach me **contact at crrapi dot xyz**
+- 📫 How to reach me **contact@crrapi.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
